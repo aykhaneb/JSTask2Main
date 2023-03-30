@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#all{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 12rem 0
+}
+
+content{
+}
+
+.enter input{
+    background-color: blanchedalmond;
+    border: none;
+   width: 16rem;
+   height: 3rem;
+   padding: 10px;
+   border-radius: 15px;
+
+}
+button{
+margin-top: 40px;
+border: none;
+background-color: bisque;
+width: 10rem;
+height: 4rem;
+border-radius: 15px;
+cursor: pointer;
+margin-bottom: 40px;
+}
+#tag{
+    color: antiquewhite;
+}
